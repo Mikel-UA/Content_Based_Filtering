@@ -1,2 +1,3 @@
 # Content_Based_Filtering
-Filtering based on films overviews, the program will show similar films based on its content
+Content based filtering, the program will show similar films to a given title based on its overviews
+
